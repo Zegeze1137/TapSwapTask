@@ -1,15 +1,15 @@
 // ==UserScript==
 // @name         TapswapTasks
-// @namespace    https://github.com/Zegeze1137
+// @namespace    https://github.com/glad-tidings/
 // @version      3.3
 // @description  Tapswap Auto Task Claim
-// @author       Zegeze1137
+// @author       Glad Tidings
 // @match        https://app.tapswap.club/*
 // @icon         https://raw.githubusercontent.com/glad-tidings/TapswapTasks/refs/heads/main/icon.jpeg
 // @grant        None
-// @downloadURL  https://raw.githubusercontent.com/Zegeze1137/TapSwapTask/refs/heads/main/tapswaptasks.js
-// @updateURL    https://raw.githubusercontent.com/Zegeze1137/TapSwapTask/refs/heads/main/tapswaptasks.js
-// @homepage     https://github.com/Zegeze1137/TapSwapTask/
+// @downloadURL  https://raw.githubusercontent.com/glad-tidings/TapswapTasks/refs/heads/main/tapswaptasks.js
+// @updateURL    https://raw.githubusercontent.com/glad-tidings/TapswapTasks/refs/heads/main/tapswaptasks.js
+// @homepage     https://github.com/glad-tidings/TapswapTasks/
 // @require      https://code.jquery.com/jquery-3.7.1.min.js
 // ==/UserScript==
 
