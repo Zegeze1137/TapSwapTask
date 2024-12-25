@@ -68,7 +68,7 @@
             question = question.replace("`", "");
             console.log("Question : ---" + question + "---");
             fetch(
-                "https://raw.githubusercontent.com/glad-tidings/TapswapTasks/refs/heads/main/list.json", {cache: "no-store"}
+                "https://raw.githubusercontent.com/Zegeze1137/TapSwapTask/refs/heads/main/list.json", {cache: "no-store"}
             ).then(function (response) {
                 response.text().then(function (text) {
                     storedText = text;
